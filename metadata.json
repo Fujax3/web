@@ -1,0 +1,5 @@
+{
+  "name": "PointSwap",
+  "description": "Une plateforme simple et sécurisée pour échanger des points entre utilisateurs, avec gestion de compte personnelle.",
+  "requestFramePermissions": []
+}

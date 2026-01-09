@@ -1,0 +1,19 @@
+
+{
+  "name": "PointSwap",
+  "short_name": "PointSwap",
+  "description": "Gestion de points sécurisée.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111827",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2529/2529396.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
